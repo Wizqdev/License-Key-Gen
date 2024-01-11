@@ -1,0 +1,20 @@
+{
+
+    "Web": {
+        "Port": 8080,
+        "Secret": "@@@@"
+    },
+
+    "Database": {
+        "MongoDB": ""
+    },
+
+    "Admin": {
+        "Username": "Admin",
+        "Password": "Admin"
+    },
+
+    "LICENSE": {
+        "Length": "12"
+    }
+}
